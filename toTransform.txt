@@ -2,3 +2,4 @@ string_to_upper_camel_case_format
 another_string
 a_third_string
 
+Here is a string to be appended to the first file in dir that is a text file.
